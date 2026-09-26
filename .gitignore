@@ -1,0 +1,4 @@
+antivirus.db
+quarantine/
+__pycache__/
+*.py[cod]
